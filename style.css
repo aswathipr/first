@@ -1,0 +1,10 @@
+h1{
+    color: brown;
+}
+p{
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+    cursor:grab;
+}
