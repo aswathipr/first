@@ -1,11 +1,20 @@
-h3{
-    color: blueviolet;
-}
-.p{
-   
-    background-color: rgb(139, 35, 56);
-}
+
+
 h4{
     color: chocolate;
 }
+.center{
+    
+    font-size:xx-large;
+    font-weight: bolder;
+    font-style: normal;
+    color: aliceblue;
+    text-align: center;
+    border: 30px;
+}
+body{
+    background-image: url("img/wallpaperflare.com_wallpaper.jpg");
+    color: antiquewhite;
+}
+
 
